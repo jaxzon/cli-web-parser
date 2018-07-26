@@ -2,7 +2,7 @@
 
 This CLI application is tested on Python 3.7
 
-Running application from command line:
+## Running application from command line:
   
   Make sure you make download.py executable with:
   
